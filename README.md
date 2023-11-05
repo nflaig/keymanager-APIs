@@ -29,14 +29,14 @@ such as GUIs, alerts, etc.
 Learn about the Consensus Validator Clients that implement these APIs on the [Ethereum.org](https://ethereum.org/)
 
 ### v1 APIS
-| Validator Client/Remote Managers | local keymanager | remote keymanager | fee recipient | gas limit  |
-| -------------------------------- | ---------------- | ----------------- | ------------- |------------|
-| Prysm                            | production       | production        | production    | production |
-| Teku                             | production       | production        | production    | production |
-| Lighthouse                       | v2.1.2           | v2.3.0            | v2.4.0        | v3.0.0     |
-| Nimbus                           | production       | production        | 22.7.0        | -          |
-| Lodestar                         | production       | v0.40.0           | production    | production |
-| Web3signer                       | production       | N/A               | N/A           | N/A        |
+| Validator Client/Remote Managers | local keymanager | remote keymanager | fee recipient | gas limit  | graffiti   |
+| -------------------------------- | ---------------- | ----------------- | ------------- |------------|------------|
+| Prysm                            | production       | production        | production    | production | -          |
+| Teku                             | production       | production        | production    | production | -          |
+| Lighthouse                       | v2.1.2           | v2.3.0            | v2.4.0        | v3.0.0     | -          |
+| Nimbus                           | production       | production        | 22.7.0        | -          | -          |
+| Lodestar                         | production       | v0.40.0           | production    | production | production |
+| Web3signer                       | production       | N/A               | N/A           | N/A        | N/A        |
 
 ## Use Cases
 
